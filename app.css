@@ -146,8 +146,7 @@ a {
     font-size: 12px;
 }
 
-
-/* Mobile media queries */
+/* Media queries for mobile */
 @media only screen and (max-width: 320px) {
     .container {
         width: 90%;
